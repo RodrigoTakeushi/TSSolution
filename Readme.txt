@@ -1,0 +1,1 @@
+Adicionado a primeira linha no arquivo readme.txt - 13/04/2022 - 17:52
